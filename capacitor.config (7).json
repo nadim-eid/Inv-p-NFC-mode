@@ -1,0 +1,6 @@
+{
+  "appId": "com.chemicalstockmanager.standalone",
+  "appName": "Chemical Stock Manager",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
